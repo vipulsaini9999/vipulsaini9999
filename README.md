@@ -1,4 +1,4 @@
-- 👋 Hi, I’m vipul saini, working as software developer in it organization.
+- 👋 Hi, I’m vipul saini, working as software developer.
 - 👀 Teaching, Software Development, research is my passion.
 
 
